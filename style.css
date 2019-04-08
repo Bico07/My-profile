@@ -1,1 +1,45 @@
-style.css
+h1 { 
+	font-size: 20px; 
+	text-align: center;
+	font-family: Arial;
+}
+
+div {
+	position: sticky;
+  	top: 0;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	font-family: Arial;
+	padding: 10px;
+}
+
+img {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+	width: 700px;
+	padding: 10px;
+}
+
+#presentation p {
+	font-style: italic;
+	font-size: 20px;
+}
+
+p {
+	font-family: calibri;
+	text-indent: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 15px;
+	border-bottom: 1px dashed black;
+	letter-spacing: 2px;
+	font-family: Arial;
+	text-indent: 15px;
+	border: 1px solid gray;
+	padding: 8px;
+}
